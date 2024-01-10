@@ -55,7 +55,7 @@ If you found this project helpful, please consider giving it a star ⭐. Your su
 
 Feel free to connect on Discord for any questions or discussions. Let's learn and code together! 🚀
 
-👉 Discord: [YourDiscordTag#1234](https://discordapp.com/users/769467035419279391)
+👉 Discord: [.insane_007](https://discordapp.com/users/769467035419279391)
 
 
 ## 🚧 Under Construction
