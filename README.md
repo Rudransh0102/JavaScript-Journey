@@ -1,13 +1,3 @@
-# JavaScript Journey
-
-## 1. Clone repo by running this in terminal
-```https://github.com/Rudransh0102/JavaScript.git```
-
-## 2. Run the file by this command
-```node .\folder_name\file_name```
-#### Example: 
-```node .\01_basics\Variables.js```
-
 # 🚀 JavaScript Mastery Repository
 
 Welcome to the ultimate JavaScript playground! Whether you're a coding novice or a seasoned developer, this repository is your go-to resource for mastering the art of JavaScript.
@@ -30,4 +20,36 @@ Welcome to the ultimate JavaScript playground! Whether you're a coding novice or
 This repository is continually evolving. Expect regular updates, new challenges, and fresh content to keep your skills sharp.
 
 Ready to embark on your JavaScript journey? Clone, code, and conquer! 🚴‍♂️💻
+
+## 🚀 Get Started
+
+Before you embark on this coding journey, make sure you have the following tools installed:
+
+### 💯 Prerequisites
+
+- **Git:** If you don't have Git installed, you can download and install it from [here](https://git-scm.com/).
+  
+- **Node.js:** Ensure you have Node.js installed on your machine. You can download it [here](https://nodejs.org/).
+
+✍️ Ready to dive in? Follow these simple steps:
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/your-username/your-repository.git
+Ready to dive in? Follow these simple steps:
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/Rudransh0102/JavaScript.git
+```
+
+### 2. Run the file by this command
+```bash
+node .\folder_name\file_name
+```
+#### Example:
+```bash
+node .\01_basics\Variables.js
+```
+
 
