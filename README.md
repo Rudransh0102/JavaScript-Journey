@@ -35,11 +35,6 @@ Before you embark on this coding journey, make sure you have the following tools
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repository.git
-Ready to dive in? Follow these simple steps:
-
-### 1. Clone the Repository
-```bash
 git clone https://github.com/Rudransh0102/JavaScript.git
 ```
 
